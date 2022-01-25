@@ -1,1 +1,1 @@
-This is a simple admin-user page with CRUD applications where user can view the contents that are uploaded by admin.
+This is a simple admin-user page with CRUD applications where Users(Farmers) can view the contents(Pesticides Details) that are uploaded by admin.
